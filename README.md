@@ -33,12 +33,6 @@ Make a full backup of you Wordpress database instalation
 
 Please try and use the app at: https://demo.wikired.com.ar/_apps/acf2jet/
 
-[TODO]
-
-## Screen widgets
-
-[TODO]
-
 
 ## License
 MIT License
