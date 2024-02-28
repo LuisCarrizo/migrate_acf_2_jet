@@ -31,7 +31,7 @@ Make a full backup of you Wordpress database instalation
 
 ## Demo Site
 
-Please try and use the app at: http://LuisCarrizo.github.io/migrate_acf_2_jet
+Please try and use the app at: https://demo.wikired.com.ar/_apps/acf2jet/
 
 [TODO]
 
